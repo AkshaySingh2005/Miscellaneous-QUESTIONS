@@ -41,7 +41,7 @@ int main(){
 } 
 
 //^ OPTIMIZED APPROACH 
-//^ TIME COMPLEXITY O(N^3)
+//^ TIME COMPLEXITY O(N^2)
 
 // step1 : sort the array
 // step2 : fix the first element 
